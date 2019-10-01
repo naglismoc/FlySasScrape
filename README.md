@@ -1,8 +1,8 @@
 # FlySasScrape
-Chooses date on both callendars.
-Selects flight directions. 
-Disable cookies notification. 
-Checks if "Show low-price calendar" checkbox is selected and unchecks it.
+Chooses date on both callendars.</br>
+Selects flight directions. </br>
+Disable cookies notification. </br>
+Checks if "Show low-price calendar" checkbox is selected and unchecks it.</br>
 
 *AFTER PRESSING SEARCH*
 
@@ -11,9 +11,9 @@ Checks if "Show low-price calendar" checkbox is selected and unchecks it.
 2. Close window.
 3. Start program again.
 
-*"WE’RE VALIDATING YOUR JAVASCRIPT ENGINE"*
-Program handles allert itself. Most of the time.
-If afer accepting allert it repeats itself - it means website feels intimidated and wont open up for you.
+*"WE’RE VALIDATING YOUR JAVASCRIPT ENGINE"*</br>
+Program handles allert itself. Most of the time.</br>
+If afer accepting allert it repeats itself - it means website feels intimidated and wont open up for you.</br>
 1. change VPN
 2. Start program again.
 
